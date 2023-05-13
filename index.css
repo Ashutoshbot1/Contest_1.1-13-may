@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+
+*{
+    box-sizing: border-box;
+    /* margin: 2rem; */
+}
+
+div{
+    margin: 1.5rem;
+}
+
+html{
+    font-family: 'Inter', sans-serif;
+}
+
+p{
+    font-weight: 400;
+}
+
+h1{
+    font-weight: 700;
+    border-bottom: 3px solid black;
+    display: inline-block;
+}
+a{
+    color: black;
+}
+
+em{
+    /* font-style: italic; */
+    font-weight: 700;
+}
+
+.Beagle-blog{
+    border: 2px solid black;
+    padding: 1rem;
+
+}
+
+.images img{
+    display: block;
+    width: 1051px;
+    height: 762px;
+    object-fit: cover;
+    margin-bottom: 1rem;
+}
+
+
+.trivia ol{
+    /* border: 2px solid; */
+    padding-left: 15px;
+    line-height: 2rem;
+}
+
+
