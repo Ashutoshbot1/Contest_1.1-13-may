@@ -4,10 +4,12 @@
 *{
     box-sizing: border-box;
     /* margin: 2rem; */
+    font-size: 40px;
+    line-height: 48.14px;
 }
 
 div{
-    margin: 1.5rem;
+    margin: 1rem;
 }
 
 html{
@@ -22,6 +24,7 @@ h1{
     font-weight: 700;
     border-bottom: 3px solid black;
     display: inline-block;
+    font-size: 64px;
 }
 a{
     color: black;
@@ -49,8 +52,8 @@ em{
 
 .trivia ol{
     /* border: 2px solid; */
-    padding-left: 15px;
-    line-height: 2rem;
+    padding-left: 40px;
+    /* line-height: 2rem; */
 }
 
 
